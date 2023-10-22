@@ -1,18 +1,13 @@
-import Button from "@mui/material/Button";
-import Box from "@mui/material/Box";
+import Container from "@mui/material/Container";
+
+import Header from "./components/Header";
 
 function App() {
   return (
-    <Box
-      sx={{
-        width: "100vw",
-        height: "100vh",
-      }}
-    >
-      <div>
-        <Button variant="contained">Hello</Button>
-      </div>
-    </Box>
+    <Container maxWidth="lg">
+      <Header title="The Ultra Rich Shopping" />
+      <main></main>
+    </Container>
   );
 }
 
