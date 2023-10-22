@@ -2,6 +2,8 @@
 
 This app showcase shopping cart for buying houses and real properties.
 
+![meme](images/meme.webp)
+
 ## Technologies
 
 - React
@@ -12,12 +14,16 @@ This app showcase shopping cart for buying houses and real properties.
 ## Running locally
 
 ```bash
+# clone the repository
 $ git clone git@github.com:MarJaysonSanAgustin/react-ts-shopping-cart-mui.git
 
+# go inside the project
 $ cd react-ts-shopping-cart-mui
 
+# install dependencies
 $ npm install
 
+# run locally
 $ npm run dev
 ```
 
