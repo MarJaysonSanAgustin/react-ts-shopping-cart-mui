@@ -2,8 +2,6 @@
 
 This app showcase shopping cart for buying houses and real properties.
 
-![meme](images/meme.webp)
-
 ## Technologies
 
 - React
@@ -114,3 +112,7 @@ The Shopping Cart Context provides the following state and functions:
 
 ![Home](images/screenshot-home.png)
 ![Cart](images/screenshot-cart.png)
+
+## I still think I can buy a house...
+
+![meme](images/meme.webp)
