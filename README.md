@@ -29,8 +29,9 @@ $ npm run dev
 
 ## Demo
 
-Coming soon!
+[Click this demo link](https://bejewelled-yeot-d5a9cc.netlify.app/)
 
 ## Screenshots
 
-Coming soon!
+![Home](images/screenshot-home.png)
+![Cart](images/screenshot-cart.png)
