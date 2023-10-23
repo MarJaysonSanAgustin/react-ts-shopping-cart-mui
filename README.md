@@ -7,7 +7,7 @@ This app showcase shopping cart for buying houses and real properties.
 - React
 - TypeScript
 - Material UI (components)
-- Context API (state manage)
+- Context API (state management)
 
 ## Running locally
 
