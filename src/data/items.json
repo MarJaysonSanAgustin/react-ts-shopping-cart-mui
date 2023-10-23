@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Ultimate Investment Opportunity in Makati Village",
+    "price": 8500000,
+    "imgUrl": "/images/app/house-1.png",
+    "bedroomCount": 5,
+    "bathroomCount": 5,
+    "lotAreaInSquareMeters": 127
+  },
+  {
+    "id": 2,
+    "name": "Luxurious Retirement House in Pasig",
+    "price": 24550500,
+    "imgUrl": "/images/app/house-2.png",
+    "bedroomCount": 7,
+    "bathroomCount": 7,
+    "lotAreaInSquareMeters": 300
+  },
+  {
+    "id": 3,
+    "name": "Dreamy Vacation House in the heart of Mandaluyong",
+    "price": 700500900,
+    "imgUrl": "/images/app/house-3.png",
+    "bedroomCount": 3,
+    "bathroomCount": 3,
+    "lotAreaInSquareMeters": 500
+  },
+  {
+    "id": 4,
+    "name": "Manila's Finest Modern Home in Sigma Village Sampaloc",
+    "price": 44850500,
+    "imgUrl": "/images/app/house-4.png",
+    "bedroomCount": 12,
+    "bathroomCount": 12,
+    "lotAreaInSquareMeters": 600
+  },
+  {
+    "id": 5,
+    "name": "Hanging Modern House in Antipolo",
+    "price": 200810100,
+    "imgUrl": "/images/app/house-5.png",
+    "bedroomCount": 8,
+    "bathroomCount": 8,
+    "lotAreaInSquareMeters": 400
+  },
+  {
+    "id": 6,
+    "name": "Dreamy Modern House and Lot in the Heart of Busy Makati",
+    "price": 900430744,
+    "imgUrl": "/images/app/house-6.png",
+    "bedroomCount": 10,
+    "bathroomCount": 11,
+    "lotAreaInSquareMeters": 567
+  },
+  {
+    "id": 7,
+    "name": "Designer Retirement Home in Makati",
+    "price": 89509500,
+    "imgUrl": "/images/app/house-7.png",
+    "bedroomCount": 9,
+    "bathroomCount": 11,
+    "lotAreaInSquareMeters": 478
+  },
+  {
+    "id": 8,
+    "name": "Futuristic and Hi-Tech House and Lot in Manila",
+    "price": 45650530,
+    "imgUrl": "/images/app/house-8.png",
+    "bedroomCount": 6,
+    "bathroomCount": 8,
+    "lotAreaInSquareMeters": 300
+  }
+]
