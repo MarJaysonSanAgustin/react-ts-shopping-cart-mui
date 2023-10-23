@@ -5,7 +5,7 @@ import IconButton from "@mui/material/IconButton";
 import Badge from "@mui/material/Badge";
 
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
-import VillaIcon from "@mui/icons-material/Villa";
+import DeckIcon from "@mui/icons-material/Deck";
 
 import { useShoppingCart } from "../context/ShoppingCartContext";
 
@@ -20,7 +20,7 @@ function Header(props: HeaderProps) {
   return (
     <AppBar position="sticky" sx={{ backgroundColor: "white" }} elevation={0}>
       <Toolbar sx={{ borderBottom: 1, borderColor: "divider" }}>
-        <VillaIcon color="primary" fontSize="large" />
+        <DeckIcon color="primary" fontSize="large" />
         <Typography
           component="h2"
           variant="h5"
