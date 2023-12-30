@@ -1,6 +1,6 @@
+import Box from "@mui/material/Box";
 import Drawer from "@mui/material/Drawer";
 import Grid from "@mui/material/Grid";
-import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 
 import { useShoppingCart } from "../context/ShoppingCartContext";

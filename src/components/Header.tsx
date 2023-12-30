@@ -1,11 +1,11 @@
 import AppBar from "@mui/material/AppBar";
+import Badge from "@mui/material/Badge";
+import IconButton from "@mui/material/IconButton";
 import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
-import IconButton from "@mui/material/IconButton";
-import Badge from "@mui/material/Badge";
 
-import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import DeckIcon from "@mui/icons-material/Deck";
+import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 
 import { useShoppingCart } from "../context/ShoppingCartContext";
 

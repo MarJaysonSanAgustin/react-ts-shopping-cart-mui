@@ -3,8 +3,8 @@ import Grid from "@mui/material/Grid";
 
 import Header from "./components/Header";
 import StoreItem from "./components/StoreItem";
-import storeItems from "./data/items.json";
 import { ShoppingCartProvider } from "./context/ShoppingCartContext";
+import storeItems from "./data/items.json";
 
 function App() {
   return (

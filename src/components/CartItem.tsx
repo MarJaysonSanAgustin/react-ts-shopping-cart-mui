@@ -1,12 +1,12 @@
+import DeleteIcon from "@mui/icons-material/Delete";
 import Box from "@mui/material/Box";
 import Divider from "@mui/material/Divider";
 import IconButton from "@mui/material/IconButton";
 import Typography from "@mui/material/Typography";
-import DeleteIcon from "@mui/icons-material/Delete";
 
 import { useShoppingCart } from "../context/ShoppingCartContext";
-import { formatCurrency } from "../utilities/format-currency";
 import storeItems from "../data/items.json";
+import { formatCurrency } from "../utilities/format-currency";
 
 type CartItemProps = {
   id: number;

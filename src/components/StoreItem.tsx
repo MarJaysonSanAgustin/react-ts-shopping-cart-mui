@@ -1,16 +1,16 @@
-import Grid from "@mui/material/Grid";
 import Box from "@mui/material/Box";
-import Typography from "@mui/material/Typography";
 import Button from "@mui/material/Button";
+import Grid from "@mui/material/Grid";
 import IconButton from "@mui/material/IconButton";
+import Typography from "@mui/material/Typography";
 
-import HotelIcon from "@mui/icons-material/Hotel";
-import DeleteIcon from "@mui/icons-material/Delete";
-import ShowerIcon from "@mui/icons-material/Shower";
 import AddCircleIcon from "@mui/icons-material/AddCircle";
-import SquareFootIcon from "@mui/icons-material/SquareFoot";
-import RemoveCircleIcon from "@mui/icons-material/RemoveCircle";
 import AddShoppingCartIcon from "@mui/icons-material/AddShoppingCart";
+import DeleteIcon from "@mui/icons-material/Delete";
+import HotelIcon from "@mui/icons-material/Hotel";
+import RemoveCircleIcon from "@mui/icons-material/RemoveCircle";
+import ShowerIcon from "@mui/icons-material/Shower";
+import SquareFootIcon from "@mui/icons-material/SquareFoot";
 
 import { useShoppingCart } from "../context/ShoppingCartContext";
 import { formatCurrency } from "../utilities/format-currency";
